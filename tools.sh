@@ -5,4 +5,7 @@ ope
 chi
 kris
 douci
-love  
+love
+kalif
+prince
+david  
