@@ -5,4 +5,6 @@ ope
 chi
 kris
 douci
-love  
+love
+doni
+van  
